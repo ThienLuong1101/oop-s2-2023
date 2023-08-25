@@ -1,8 +1,8 @@
 #include"Bike.h"
 
 Bike::Bike() {
-    int code_num = 0;
-    string Brand = " ";
+    code_num = 0;
+    Brand = " ";
 };            // default constructor - makes new bike with code number 0 and
                   // and empty string "" for brand
 
