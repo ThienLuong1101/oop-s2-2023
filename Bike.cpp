@@ -1,5 +1,6 @@
 #include"Bike.h"
-
+#include<iostream>
+#include<string>
 Bike::Bike() {
     code_num = 0;
     Brand = "";

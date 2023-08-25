@@ -1,3 +1,4 @@
+#include"Bike.h"
 #include"Bike_yard.h"
 
 Bike_yard::Bike_yard() {

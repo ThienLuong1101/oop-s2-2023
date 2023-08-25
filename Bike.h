@@ -1,3 +1,4 @@
+#ifndef BIKE_H
 #define BIKE_H
 
 #include<string>
@@ -17,3 +18,4 @@ class Bike
         ~Bike();                            // destructor
 };
 
+#endif
