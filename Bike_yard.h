@@ -1,3 +1,5 @@
+#define BIKE_YARD_H
+
 #include<iostream>
 #include<string>
 #include"Bike.h"

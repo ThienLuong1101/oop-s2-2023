@@ -2,7 +2,7 @@
 
 Bike::Bike() {
     code_num = 0;
-    Brand = " ";
+    Brand = "";
 };            // default constructor - makes new bike with code number 0 and
                   // and empty string "" for brand
 
